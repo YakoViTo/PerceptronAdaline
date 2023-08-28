@@ -8,7 +8,8 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
    1) Vary the number of training points. The num_points variable determines the number of training points. You can change its value to test with different numbers of points. For example, increase or decrease the number of points and observe how it affects the accuracy of the models.
 
-   Test with the variable num_points equal to 10, with coefficients of the line y = mx + b where m is equal to 0.5 and b is equal to 2.5 and with a learning_rate of 0.01 and maximum number of epochs (max_epochs) equal to 100 for the Adaline, similarly values are set for the Simple Perceptron inherent to the learning_rate of 0.1 and maximum number of epochs (max_epochs) equal to 100.
+      Test with the variable num_points equal to 10, with coefficients of the line y = mx + b where m is equal to 0.5 and b is equal to 2.5 and with a learning_rate of 0.01 and maximum number of epochs (max_epochs) equal to 100 for the Adaline, similarly values are set for the Simple Perceptron inherent to the learning_rate of 0.1 and maximum number of epochs (max_epochs) equal to 100.
 
-![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/0ccc3b9c-3ad6-4027-8a3b-49a79abb60a3)
+![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/eb5ad2d2-70ee-46ec-b0a1-d7926668d9b9)
+
 
