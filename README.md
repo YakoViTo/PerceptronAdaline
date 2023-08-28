@@ -10,3 +10,7 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
 ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/12ba80a7-9839-49f4-9af4-729586d3c56b)
 ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/a336ec2d-acc1-46db-a895-4dda3a415fe7)
+
+The results obtained will depend on the experiments performed and the parameter values used. In general, both Simple Perceptron and Adaline are expected to be able to fit a line to correctly classify most of the test points within the rectangle [0, 10] x [0, 10]. The accuracy and speed of convergence may vary depending on the number of training points, data separability, learning rates, and training epochs.
+
+In conclusion, the Simple Perceptron and Adaline are two classical supervised learning algorithms for solving linear classification problems. They are suitable for problems where the data are linearly separable. However, for more complex problems or nonlinearly separable data, more advanced approaches, such as deeper neural networks or nonlinear learning techniques, would be required.
