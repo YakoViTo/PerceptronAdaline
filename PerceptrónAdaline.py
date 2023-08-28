@@ -1,3 +1,4 @@
+# Kavir Alvarado 26.256.604
 import numpy as np
 import matplotlib.pyplot as plt
 
