@@ -12,6 +12,7 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
       ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/37544939-41bc-4904-97a9-4744285f5a8c)
       
+      
       ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/4b374e59-7f9b-40a6-b987-f8fcd125cbdc)![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/ee2e27ae-82b9-4c6c-a9c3-74b6fe26fdbe)
 
 
