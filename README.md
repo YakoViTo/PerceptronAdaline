@@ -10,6 +10,7 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
       Test with the variable num_points equal to 10, with coefficients of the line y = mx + b where m is equal to 0.5 and b is equal to 2.5 and with a learning_rate of 0.01 and maximum number of epochs (max_epochs) equal to 100 for the Adaline, similarly values are set for the Simple Perceptron inherent to the learning_rate of 0.1 and maximum number of epochs (max_epochs) equal to 100.
 
-![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/eb5ad2d2-70ee-46ec-b0a1-d7926668d9b9)
+      ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/8bfab554-af25-4ef9-a66a-37eaafcc70d0)
+
 
 
