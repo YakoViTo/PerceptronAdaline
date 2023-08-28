@@ -6,10 +6,10 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
 The relevant functions of the code that helped to solve the problem are described below:
 
-    1) generate_random_points(num_points): this function generates random points in the rectangle [0, 10] x [0, 10]. It takes as input the number of points to be generated and returns an array with the (x, y) coordinates of those points.
+   1) generate_random_points(num_points): this function generates random points in the rectangle [0, 10] x [0, 10]. It takes as input the number of points to be generated and returns an array with the (x, y) coordinates of those points.
 
   
-    2) generate_labels(points, m, b): This function generates the classification labels (1 or -1) for the generated points. It takes as input the matrix of points and the coefficients m and b of the line y = mx + b. It labels the points according to their position with respect to the line. Points above the line will be labeled as 1, and points below will be labeled as -1.
+   2) generate_labels(points, m, b): This function generates the classification labels (1 or -1) for the generated points. It takes as input the matrix of points and the coefficients m and b of the line y = mx + b. It labels the points according to their position with respect to the line. Points above the line will be labeled as 1, and points below will be labeled as -1.
 
 
 
