@@ -7,6 +7,7 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 A continuación, se describen las funciones relevantes del código que ayudaron a solucionar el problema:
 
   1- generate_random_points(num_points): Esta función genera puntos aleatorios en el rectángulo [0, 10] x [0, 10]. Toma como entrada el número de puntos que se desea generar y devuelve        una matriz con las coordenadas (x, y) de esos puntos.
-     ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/ccb8d086-ce15-4101-bae9-5bbc6e32baa0)
+     ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/3632e533-6e90-4334-bd75-dae818b421c8)
+
 
 
