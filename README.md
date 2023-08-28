@@ -18,8 +18,8 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 
       Test with the variable num_points equal to 20, with coefficients of the straight line y = mx + b where m is equal to 0.5 and b is equal to 2.5 and with a learning_rate of 0.01 and maximum number of epochs (max_epochs) equal to 100 for the Adaline, in the same way values are established for the Simple Perceptron inherent to the learning_rate of 0.1 and maximum number of epochs (max_epochs) equal to 100.
 
-      ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/2835ed83-b102-46d0-a29f-148f3c22165b)
+      ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/252ab902-eabe-4778-96b5-59fc65443a7b)
 
-      
+
       ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/04a67d74-d9d9-4c9e-b42b-3a65e1aed2b5)
       ![image](https://github.com/YakoViTo/PerceptronAdaline/assets/135473233/e80f555a-8dc2-4cc1-b672-a0a0d88ecfb0)
