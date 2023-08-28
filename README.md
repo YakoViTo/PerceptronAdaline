@@ -7,6 +7,7 @@ The solution consists of implementing the Simple Perceptron and the Adaline usin
 A continuación, se describen las funciones relevantes del código que ayudaron a solucionar el problema:
 
   1- generate_random_points(num_points): Esta función genera puntos aleatorios en el rectángulo [0, 10] x [0, 10]. Toma como entrada el número de puntos que se desea generar y devuelve        una matriz con las coordenadas (x, y) de esos puntos.
+  
   2- generate_labels(points, m, b): Esta función genera las etiquetas de clasificación (1 o -1) para los puntos generados. Toma como entrada la matriz de puntos y los coeficientes m y b de la recta y = mx + b. Etiqueta los puntos según su posición con respecto a la recta. Los puntos que estén por encima de la recta se etiquetarán como 1, y los puntos que estén por debajo se etiquetarán como -1. Devuelve un vector de etiquetas.
 
 
